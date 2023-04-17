@@ -1,0 +1,2 @@
+export const CURRENT_HTML = 'CURRENT_HTML'
+export const LIST_STORAGE_HTML = 'LIST_STORAGE_HTML'
